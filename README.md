@@ -1,6 +1,6 @@
 # Microsoft-Appx-Downloader
 
-A Simple Py3 script to download appx files from microsoft
+A Simple Py3 script to download appx files from microsoft store reverse engineered api.
 
 ## Installation
 
